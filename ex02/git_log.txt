@@ -1,0 +1,5 @@
+commit 798bf6df2a1c5edc073d8f1b673a6014c61d05e3
+Author: Rana-Househ <ranahouseh22@gmail.com>
+Date:   Wed Sep 30 15:50:21 2026 -0400
+
+    Initial commit with hello.txt

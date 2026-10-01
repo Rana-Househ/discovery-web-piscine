@@ -1,0 +1,4 @@
+Edit: Modify or create project files in the working directory.
+Add: Stage modified files using 'git add <file>' to prepare them for commit.
+Commit: Save staged changes locally using 'git commit -m "message"'.
+Push: Upload local commits to the remote GitHub repository using 'git push'.
